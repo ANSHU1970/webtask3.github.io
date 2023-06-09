@@ -107,7 +107,7 @@ button:hover{
     #check:checked ~ .menu {right: 0;}
 }
  .container {
-    font-size: 60%;
+    font-size: 50%;
     
     position: relative;
     margin-left: 2%;
